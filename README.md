@@ -38,6 +38,7 @@ My journey as an IT educator has led me to develop an extensive passion for cybe
 ### Projects
 
 ##### 💼 GRC & Cybersecurity Projects
+<a href="https://github.com/angelmara64/Information-Security-Policy-Framework">Information Security Policy Framework</a>
 
 ##### ⚖️ Risk Management
 
