@@ -24,6 +24,8 @@ My journey as an IT educator has led me to develop an extensive passion for cybe
   <img src="https://img.shields.io/badge/-Cybersecurity%20(Coursera)-0052CC?style=for-the-badge&logo=Coursera&logoColor=white"/>
 </a>
 
+<img src="https://img.shields.io/badge/-Machine%20Learning%20%26%20AI-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+
 <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR-COMPTIA-ID" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EE0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
 </a>
