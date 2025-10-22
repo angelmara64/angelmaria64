@@ -37,27 +37,11 @@ My journey as an IT educator has led me to develop an extensive passion for cybe
 
 ##### 💼 GRC & Cybersecurity Projects
 
-- 📘 Developed an Information Security Policy Framework aligned with ISO 27001 and NIST standards.
-
-- 📊 Created a Security Awareness Program Plan with measurable training metrics.
-
-- 🗺️ Mapped ISO 27001 controls to NIST CSF for better governance alignment.
-
 #### ⚖️ Risk Management
-
-- 🧮 Built a Cyber Risk Register Tool using Python and Excel to log and score risks.
-
-- 🧠 Designed a Vendor Risk Assessment Template for third-party risk evaluation.
-
-- 📈 Conducted Quantitative Risk Analysis using Monte Carlo simulations (FAIR model).
 
  #### 📋 Audit & Reporting
 
-- 🧾 Created a Cybersecurity Audit Plan Template for annual internal assessments.
 
-- 📑 Designed a Security Metrics Dashboard to visualize incidents, vulnerabilities, and KPIs.
-
-- 🧠 Wrote Incident Report Templates to standardize cybersecurity response documentation.
 
 
   
