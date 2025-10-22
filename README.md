@@ -37,9 +37,9 @@ My journey as an IT educator has led me to develop an extensive passion for cybe
 
 ##### 💼 GRC & Cybersecurity Projects
 
-#### ⚖️ Risk Management
+##### ⚖️ Risk Management
 
- #### 📋 Audit & Reporting
+##### 📋 Audit & Reporting
 
 
 
