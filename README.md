@@ -1,4 +1,4 @@
-### Hello, I'm Nonhlanhla Angel Miya
+### 😄 Hello, I'm Nonhlanhla Angel Miya
 <a href="https://www.linkedin.com/in/nonhlanhla-angel-miya-863413190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 
 ### Introduction
